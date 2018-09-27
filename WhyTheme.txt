@@ -1,0 +1,28 @@
+The WordPress theme I chose for this particular website is the ‘Corporate Plus’ theme. There are several reasons I chose this theme. 
+
+Reason 1: Clean and Un Cluttered
+After reading through the client’s needs I was able to attain that they are looking for a website in which best 
+represents themselves and their image. Corporate Plus is able to do this as it offers a clean looking experiences 
+with minimal clutter, this allows chalets and caviar to draw the user’s attention directly to where they 
+want – Sales and Rent. It also allows this by offering minimal front page options and text 
+distractions, prompting the user to the For Sale and For Rent Pages. 
+
+Reason 2: Positioning of Elements
+Corporate Plus’s positioning of elements is ideal for the client Chalets and Caviar. The header element is very 
+large, spanning almost halfway down the homepage, this header offers a tagline and button right in the center of 
+the user’s vision, I opted to change this to a contact button, allowing the user to effortlessly send a message to
+ the company, generating potential revenue for the client. The positioning of the sticky nav bar at the top right 
+feels natural and clean, so the user is clear what options they have without having to scroll the page. 
+
+Reason 3: Good Media Query CSS
+Corporate Plus has good media query CSS implemented already, this ensures that the website still looks good on a
+ variety of displays, this reason is crucial in today’s environment of smart phones and tablet computers, especially 
+for an e commerce site looking to reach a wide audience.
+
+Reason 4: SEO Ready
+This reason is future thought for the client’s needs, having a website that is Search Engine Optimised will
+ allow the client to reach a larger audience through higher volumes of traffic and organic ‘hits’, Corporate Plus 
+comes SEO ready.  
+
+
+
