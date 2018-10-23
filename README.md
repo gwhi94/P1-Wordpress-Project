@@ -6,7 +6,7 @@
  **3** - Add properties <br/>
  **4** - Configure account access for employees <br/>
  **5** - Produce documentation <br/> 
- **7** - Present over video call to simulate real life conditions
+ **6** - Present over video call to simulate real life conditions
  <br/>
  ### Skills Developed
  * WordPress
